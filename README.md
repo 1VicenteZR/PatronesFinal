@@ -97,23 +97,13 @@ Se utiliza un ejemplo de un sistema de pagos.
 
 - Lenguaje: **Java**
 - Paradigma: **Programación Orientada a Objetos**
-- IDE recomendado: NetBeans, IntelliJ IDEA o Eclipse
+- IDE recomendado: NetBeans
 
 ---
 
-## Objetivo académico
-
-Este repositorio fue desarrollado con fines **educativos**, como apoyo para la comprensión de:
-- Patrones de diseño
-- Buenas prácticas de programación
-- Principios de diseño orientado a objetos
-
-El código y la explicación están pensados para un nivel universitario, priorizando la claridad sobre la complejidad.
-
----
 
 ## Autor
 
-Proyecto realizado como práctica académica para la materia relacionada con **Ingeniería de Software / Programación Orientada a Objetos**.
+Proyecto realizado como práctica académica para la materia Diseño E Implementacion De Software Con Patrones hecho por Zenón Regalado Vicente de Jesús
 
 ---
